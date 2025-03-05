@@ -76,3 +76,9 @@ output_path = "hexagon_animation.gif"
 -- duration=500
 ++ duration=300
 ```
+
+## Credits
+
+The example SVG files are from Notion icons. Here is an example:
+
+![hexagon-four-sixths](https://www.notion.so/icons/hexagon-four-sixths_blue.svg?mode=dark)
